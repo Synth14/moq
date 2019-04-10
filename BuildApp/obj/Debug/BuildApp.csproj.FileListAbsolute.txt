@@ -1,0 +1,8 @@
+C:\Users\Adminl\source\repos\moq\BuildApp\bin\Debug\BuildApp.exe.config
+C:\Users\Adminl\source\repos\moq\BuildApp\bin\Debug\BuildApp.exe
+C:\Users\Adminl\source\repos\moq\BuildApp\bin\Debug\BuildApp.pdb
+C:\Users\Adminl\source\repos\moq\BuildApp\obj\Debug\BuildApp.Properties.Resources.resources
+C:\Users\Adminl\source\repos\moq\BuildApp\obj\Debug\BuildApp.csproj.GenerateResource.cache
+C:\Users\Adminl\source\repos\moq\BuildApp\obj\Debug\BuildApp.csproj.CoreCompileInputs.cache
+C:\Users\Adminl\source\repos\moq\BuildApp\obj\Debug\BuildApp.exe
+C:\Users\Adminl\source\repos\moq\BuildApp\obj\Debug\BuildApp.pdb
